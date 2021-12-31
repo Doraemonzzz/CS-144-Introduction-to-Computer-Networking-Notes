@@ -3,8 +3,8 @@
 
 公开课视频以及学习资料：
 
-- https://www.bilibili.com/video/BV137411Z7LR
-- https://www.cnblogs.com/kangyupl/p/stanford_cs144_labs.html
+- [https://www.bilibili.com/video/BV137411Z7LR](https://www.bilibili.com/video/BV137411Z7LR)
+- [https://www.cnblogs.com/kangyupl/p/stanford_cs144_labs.html](https://www.cnblogs.com/kangyupl/p/stanford_cs144_labs.html)
 
 参考资料：
 
