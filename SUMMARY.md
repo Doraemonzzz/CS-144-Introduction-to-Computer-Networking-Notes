@@ -11,4 +11,7 @@
    7. [分层原则(Layering principle)](Unit1-Internet-and-IP/1.7.md)
    8. [封装原则(Encapslation principle)](Unit1-Internet-and-IP/1.8.md)
    9. [比特顺序(Byte order)](Unit1-Internet-and-IP/1.9.md)
+   10. [IPv4地址(IPv4 addresses)](Unit1-Internet-and-IP/1.10.md)
+   11. 
+   12. [最长前缀匹配(Longest prefix match(LPM))](Unit1-Internet-and-IP/1.12.md)
 2. 
