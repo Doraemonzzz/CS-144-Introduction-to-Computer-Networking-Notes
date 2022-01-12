@@ -18,4 +18,6 @@
    14. [互联网和IP回顾(The Internet and IP Recap)](Unit1-Internet-and-IP/1.14.md)
 2. [Unit2-Transport](Unit2-Transport/README.md)
    1. [传输层介绍(Transport Layer introduction)](Unit2-Transport/2.1.md)
+   2. [TCP服务模型(TCP service model)](Unit2-Transport/2.2.md)
+   3. [UDP服务模型(UDP service model)](Unit2-Transport/2.3.md)
 
