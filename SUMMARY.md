@@ -22,4 +22,6 @@
    3. [UDP服务模型(UDP service model)](Unit2-Transport/2.3.md)
    4. [ICMP服务模型(ICMP service model)](Unit2-Transport/2.4.md)
    5. [端到端原则(The End-to-End Principle)](Unit2-Transport/2.5.md)
+   6. [错误检测(Error detection)](Unit2-Transport/2.6.md)
+   7. [有限状态自动机(Finite state machines)](Unit2-Transport/2.7.md)
 
