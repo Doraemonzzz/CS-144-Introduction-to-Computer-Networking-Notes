@@ -24,4 +24,6 @@
    5. [端到端原则(The End-to-End Principle)](Unit2-Transport/2.5.md)
    6. [错误检测(Error detection)](Unit2-Transport/2.6.md)
    7. [有限状态自动机(Finite state machines)](Unit2-Transport/2.7.md)
+   8. [流量控制1——Stop and wait](Unit2-Transport/2.8.md)
+   9. [流量控制2——Sliding window](Unit2-Transport/2.9.md)
 
