@@ -28,4 +28,6 @@
    9. [流量控制2——Sliding window](Unit2-Transport/2.9.md)
    10. [可靠通信——重传策略](Unit2-Transport/2.10.md)
    11. [可靠通信——TCP报头](Unit2-Transport/2.11.md)
+   12. [可靠通信——连接](Unit2-Transport/2.12.md)
+   13. [传输层回顾](Unit2-Transport/2.13.md)
 
