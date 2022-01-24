@@ -30,4 +30,7 @@
    11. [可靠通信——TCP报头](Unit2-Transport/2.11.md)
    12. [可靠通信——连接](Unit2-Transport/2.12.md)
    13. [传输层回顾](Unit2-Transport/2.13.md)
+3. [Unit3-Packet-Switching](Unit3-Packet-Switching/README.md)
+   1. [分组交换简介](Unit3-Packet-Switching/3.1.md)
+   2. [网络和互联网简史(A very brief history of networking and the Internet)](Unit3-Packet-Switching/3.2.md)
 

@@ -12,8 +12,8 @@
 
 整理进度：
 
-- [ ] Unit1-Internet-and-IP
-- [ ] Unit2-Transport
+- [x] Unit1-Internet-and-IP
+- [x] Unit2-Transport
 - [ ] Unit3-Packet-Switching
 - [ ] Unit4-Congestion-Control
 - [ ] Unit5-Applications-and-NATs
@@ -39,4 +39,5 @@
 - 2022/1/18：完成2.10，2.11。
 - 2022/1/19：完成2.12，2.13。
   - 2.12需要补充。
+- 2022/1/24：完成3.1, 3.2。
 
