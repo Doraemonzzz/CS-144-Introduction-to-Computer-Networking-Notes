@@ -33,4 +33,6 @@
 3. [Unit3-Packet-Switching](Unit3-Packet-Switching/README.md)
    1. [分组交换简介](Unit3-Packet-Switching/3.1.md)
    2. [网络和互联网简史(A very brief history of networking and the Internet)](Unit3-Packet-Switching/3.2.md)
+   3. [什么是分组交换？(What is packet switching)](Unit3-Packet-Switching/3.3.md)
+   4. [端到端延迟(End to End Delay)](Unit3-Packet-Switching/3.4.md)
 
