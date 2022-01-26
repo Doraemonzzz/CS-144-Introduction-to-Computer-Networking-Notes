@@ -35,4 +35,6 @@
    2. [网络和互联网简史(A very brief history of networking and the Internet)](Unit3-Packet-Switching/3.2.md)
    3. [什么是分组交换？(What is packet switching)](Unit3-Packet-Switching/3.3.md)
    4. [端到端延迟(End to End Delay)](Unit3-Packet-Switching/3.4.md)
+   5. [播放缓冲区(Playback Buffers)](Unit3-Packet-Switching/3.5.md)
+   6. [排队模型(Queue models)](Unit3-Packet-Switching/3.6.md)
 
