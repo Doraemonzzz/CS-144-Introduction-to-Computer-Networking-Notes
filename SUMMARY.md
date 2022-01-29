@@ -37,4 +37,8 @@
    4. [端到端延迟(End to End Delay)](Unit3-Packet-Switching/3.4.md)
    5. [播放缓冲区(Playback Buffers)](Unit3-Packet-Switching/3.5.md)
    6. [排队模型(Queue models)](Unit3-Packet-Switching/3.6.md)
+   7. [排队模型示例](Unit3-Packet-Switching/3.7.md)
+   8. [有用的队列性质](Unit3-Packet-Switching/3.8.md)
+   9. [分组交换的工作原理(1)](Unit3-Packet-Switching/3.9.md)
+   10. [分组交换的工作原理(2)](Unit3-Packet-Switching/3.10.md)
 
