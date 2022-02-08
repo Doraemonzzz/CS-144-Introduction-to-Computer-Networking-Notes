@@ -42,4 +42,7 @@
    9. [分组交换的工作原理(1)](Unit3-Packet-Switching/3.9.md)
    10. [分组交换的工作原理(2)](Unit3-Packet-Switching/3.10.md)
    11. [分组交换：严格的优先级和流速保证](Unit3-Packet-Switching/3.11.md)
+   12. [分组交换：延迟保证](Unit3-Packet-Switching/3.12.md)
+   13. [例子](Unit3-Packet-Switching/3.13.md)
+   14. [小结](Unit3-Packet-Switching/3.14.md)
 
