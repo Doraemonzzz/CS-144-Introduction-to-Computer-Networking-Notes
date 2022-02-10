@@ -14,7 +14,7 @@
 
 - [x] Unit1-Internet-and-IP
 - [x] Unit2-Transport
-- [ ] Unit3-Packet-Switching
+- [x] Unit3-Packet-Switching
 - [ ] Unit4-Congestion-Control
 - [ ] Unit5-Applications-and-NATs
 - [ ] Unit6-Routing
@@ -46,4 +46,5 @@
 - 2022/1/29：完成3.9, 3.10。
 - 2022/2/8：完成3.11, 3.12, 3.13, 3.14。
 - 2022/2/9：完成4.1, 4.2。
+- 2022/2/10：完成4.3, 4.3。
 
